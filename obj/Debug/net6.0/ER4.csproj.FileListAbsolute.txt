@@ -1,0 +1,15 @@
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.csproj.AssemblyReference.cache
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.AssemblyInfoInputs.cache
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.AssemblyInfo.cs
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.csproj.CoreCompileInputs.cache
+D:\UC12\SA2\ER4\bin\Debug\net6.0\ER4.exe
+D:\UC12\SA2\ER4\bin\Debug\net6.0\ER4.deps.json
+D:\UC12\SA2\ER4\bin\Debug\net6.0\ER4.runtimeconfig.json
+D:\UC12\SA2\ER4\bin\Debug\net6.0\ER4.dll
+D:\UC12\SA2\ER4\bin\Debug\net6.0\ER4.pdb
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.dll
+D:\UC12\SA2\ER4\obj\Debug\net6.0\refint\ER4.dll
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.pdb
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ER4.genruntimeconfig.cache
+D:\UC12\SA2\ER4\obj\Debug\net6.0\ref\ER4.dll
